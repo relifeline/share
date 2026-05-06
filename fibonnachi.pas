@@ -1,6 +1,7 @@
 program fibonnachi;
 var
-	sum1, sum2, cycles, cyclecount, actualcycles : integer;
+	cycles, cyclecount, actualcycles : integer;
+	sum1, sum2 : longint;
 	binary : boolean;
 begin
 binary := true;
